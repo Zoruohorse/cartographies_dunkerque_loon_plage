@@ -1,0 +1,81 @@
+{
+  "griefs": [
+    {
+      "title": "⚡ Consommation électrique",
+      "text": "Le projet est extrêmement consommateur d’électricité, ce qui constitue un enjeu central du débat sur les data centers IA."
+    },
+    {
+      "title": "💧 Consommation d’eau",
+      "text": "Le refroidissement des centres de données interroge sur la disponibilité de la ressource en eau, même si le territoire met en avant des solutions industrielles."
+    },
+    {
+      "title": "💼 Faible intensité en emplois",
+      "text": "Critique récurrente : les data centers créent relativement peu d’emplois directs en phase opérationnelle par rapport aux capitaux engagés."
+    },
+    {
+      "title": "🌿 Artificialisation / foncier",
+      "text": "Sujet de vigilance général lié à l’emprise foncière des grands centres de données."
+    },
+    {
+      "title": "🔒 Captation de ressources stratégiques",
+      "text": "Critique générale sur le risque que l’énergie et les ressources soient accaparées par des infrastructures détenues par des capitaux étrangers."
+    },
+    {
+      "title": "👥 Pas d’opposition locale structurée",
+      "text": "Dans le corpus étudié, aucun collectif local d’opposition ou opposant local nommément cité n’apparaît clairement à ce stade pour Loon-Plage."
+    },
+    {
+      "title": "🏰 Redéfinition de la Souveraineté",
+      "text": "Les experts pointent que la localisation des données ne suffit plus à garantir la souveraineté. La dépendance aux capitaux (Brookfield, SoftBank) crée un nouveau rapport de vulnérabilité systémique."
+    },
+    {
+      "title": "⏳ Pré-réservation temporaire et conditionnelle",
+      "text": "Les 1 300 MW annoncés ne correspondent pas encore à un raccordement définitivement attribué. La réservation est valable neuf mois."
+    },
+    {
+      "title": "🔌 Pression électrique territoriale cumulative",
+      "text": "Le bassin dunkerquois pourrait consommer 3 500 MW en 2030 puis 4 500 MW en 2040 sous l’effet cumulé des industries et data centers."
+    },
+    {
+      "title": "📉 Emplois difficiles à attribuer",
+      "text": "Le chiffre de 150 emplois minimum concerne l’usine Schneider Electric. Aucun volume consolidé n’est confirmé pour le data center SoftBank."
+    },
+    {
+      "title": "🤝 Licence sociale à construire",
+      "text": "Le gouvernement reconnaît le risque d’une opposition citoyenne et demande aux opérateurs de démontrer concrètement les bénéfices locaux."
+    }
+  ],
+  "vigilance": [
+    "<strong>Absence de contestation de terrain :</strong> Contrairement à d'autres projets comparables, aucune opposition citoyenne structurée n'est identifiée ou nommée explicitement dans le corpus pour Loon-Plage.",
+    "<strong>Mirage de l'emploi technologique :</strong> Les économistes et sociologues alertent sur un fort décalage entre l'emprise foncière, les montants investis (45 Md€) et la très faible proportion d'emplois directs créés post-construction.",
+    "<strong>Pression sur les réseaux :</strong> Une capacité de 1,3 GW capte une part substantielle de l'électricité décarbonée (EPR de Gravelines, éolien offshore), soulevant la question d'un conflit d'usage avec d'autres industries locales.",
+    "<strong>Souveraineté des capitaux :</strong> Bien qu'implantée en France pour profiter des tarifs énergétiques et du foncier portuaire, l'infrastructure est majoritairement maîtrisée par un fonds japonais (SoftBank).",
+    "<strong>Polarisation des implantations :</strong> La stratégie de SoftBank visant à concentrer 3,1 GW de capacité sur un axe très restreint (Dunkerque, Bosquel, Bouchain) risque d'engendrer une hyper-dépendance énergétique et foncière de la région Hauts-de-France.",
+    "<strong>Affectation des 1 300 MW :</strong> La capacité est pré-réservée à la Zone Industries Avenir pour des activités industrielles ou numériques de forte puissance ; elle n’est pas démontrée comme exclusivement attribuée à SoftBank.",
+    "<strong>Durée Fast Track :</strong> La pré-réservation court pendant neuf mois à compter du 17 septembre 2026 et peut être prolongée de trois mois uniquement si le processus d’attribution du foncier est encore en cours.",
+    "<strong>Raccordement non définitif :</strong> L’entrée en file d’attente et la prise en compte dans les études exploratoires ne signifient ni acceptation d’une proposition technique et financière ni mise à disposition immédiate de la puissance.",
+    "<strong>Deux zones portuaires :</strong> Les 1 300 MW de Loon-Plage et les 700 MW de Bourbourg correspondent à deux sites Fast Track distincts et ne doivent pas être consolidés automatiquement dans la puissance du projet SoftBank.",
+    "<strong>Périmètre des investissements :</strong> Les 45 milliards d’euros et 3,1 GW concernent la première phase régionale multi-sites ; les 75 milliards d’euros et 5 GW correspondent à un programme national potentiel plus large.",
+    "<strong>Emplois Schneider :</strong> Les 150 emplois minimum annoncés par Olivier Blum concernent l’usine industrielle locale et ne permettent pas d’évaluer les emplois permanents du data center.",
+    "<strong>Rôle d’EDF :</strong> La nouvelle ressource documente explicitement EDF à Bouchain, mais pas les conditions exactes de l’approvisionnement du site de Loon-Plage.",
+    "<strong>Renforcement du réseau :</strong> Les besoins du bassin nécessitent des investissements à très haute tension, notamment le poste de Flandre maritime à Saint-Georges-sur-l’Aa, dont le calendrier et la capacité disponible doivent être suivis.",
+    "<strong>Acceptabilité sociale :</strong> L’absence actuelle d’opposition locale structurée ne garantit pas l’acceptation future du projet lorsque les chantiers, besoins en eau, lignes électriques et emprises foncières deviendront visibles.",
+    "<strong>Legrand :</strong> Le groupe est identifié comme acteur de la filière nationale, mais aucun contrat ou rôle opérationnel propre à Loon-Plage n’est démontré."
+  ],
+  "sources": [
+    "<strong>La Tribune :</strong> Relaye les annonces de Choose France et détaille les investissements dans les infrastructures IA.",
+    "<strong>Le Monde :</strong> Analyse la course au gigantisme des centres de données et les enjeux d’eau, d’électricité et de foncier.",
+    "<strong>La Voix du Nord :</strong> Source régionale majeure sur les annonces SoftBank et le rôle des acteurs politiques des Hauts-de-France.",
+    "<strong>Ici :</strong> Média relayant l’investissement de 45 Md€ dans les Hauts-de-France, dont Loon-Plage.",
+    "<strong>Les Echos :</strong> Cite notamment le projet d’usine Schneider à Dunkerque.",
+    "<strong>Le Républicain Lorrain :</strong> Fournit un cadrage critique sur l’emploi et l’impact économique des data centers.",
+    "<strong>Zonebourse :</strong> Relaye le partenariat industriel et technologique de Schneider Electric avec SoftBank.",
+    "<strong>La Voix de France :</strong> Documente précisément les chiffres officiels de Choose France 2026, la répartition des gigawatts et l'implication de Brookfield.",
+    "<strong>Journal du Net :</strong> Fournit un angle d'analyse macro-stratégique sur l'évolution du concept de souveraineté numérique (DORA, NIS2) par le prisme des data centers physiques.",
+    "<strong>RTE Services :</strong> Communication du 17 septembre 2026 documentant la pré-réservation de 1 300 MW à Loon-Plage pendant neuf mois, la prolongation des 700 MW de Bourbourg et les conditions de la procédure Fast Track.",
+    "<strong>Nord Littoral :</strong> Article du 21 septembre 2026 sur les capacités nouvellement réservées et la progression attendue de la consommation électrique du bassin dunkerquois jusqu’en 2040.",
+    "<strong>Le Nouvel Économiste :</strong> Article du 11 septembre 2026 consacré au rapport entre les milliards annoncés par SoftBank et le nombre limité d’emplois directement identifiables, dont 150 au minimum pour l’usine Schneider Electric.",
+    "<strong>ReFrance :</strong> Article du 7 septembre 2026 sur l’alerte de Roland Lescure concernant l’acceptabilité sociale, le programme SoftBank dans les Hauts-de-France et le pôle industriel Schneider Electric à Dunkerque.",
+    "<strong>Économie Matin :</strong> Article du 27 août 2026 replaçant le projet dans la déconnexion nationale entre investissements records et faible création nette d’emplois."
+  ]
+}

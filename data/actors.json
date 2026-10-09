@@ -1,0 +1,992 @@
+[
+  {
+    "id": "project_dunkerque",
+    "type": "project",
+    "name": "Data center SoftBank — Loon-Plage / Dunkerque",
+    "short_name": "Data center SoftBank Loon-Plage Dunkerque",
+    "description": "Projet de data center IA porté par SoftBank à Loon-Plage, près de Dunkerque. Le site devrait atteindre progressivement environ 1,3 GW de capacité dans la première phase des investissements annoncés lors de Choose France.",
+    "roles": [
+      {
+        "label": "Projet central"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0002",
+    "type": "project",
+    "name": "Usine de modules Schneider — port de Dunkerque",
+    "short_name": "Usine modules Schneider port de Dunkerque",
+    "description": "Projet d’usine de modules électriques / modules préfabriqués pour data centers, en lien avec Schneider Electric, destiné à soutenir les projets SoftBank.",
+    "roles": [
+      {
+        "label": "Projet central"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0003",
+    "type": "project",
+    "name": "Loon-Plage",
+    "short_name": "Loon-Plage",
+    "description": "Commune / secteur d’implantation cité pour le data center près de Dunkerque.",
+    "roles": [
+      {
+        "label": "Projet central"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0004",
+    "type": "entity",
+    "name": "Patrice Vergriete",
+    "short_name": "Patrice Vergriete",
+    "description": "Maire de Dunkerque et président de la Communauté urbaine",
+    "roles": [
+      {
+        "label": "Maire de Dunkerque et président de la Communauté urbaine"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0005",
+    "type": "entity",
+    "name": "Xavier Bertrand",
+    "short_name": "Xavier Bertrand",
+    "description": "Président de la Région Hauts-de-France",
+    "roles": [
+      {
+        "label": "Président de la Région Hauts-de-France"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0006",
+    "type": "entity",
+    "name": "Emmanuel Macron",
+    "short_name": "Emmanuel Macron",
+    "description": "Président de la République",
+    "roles": [
+      {
+        "label": "Président de la République"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0007",
+    "type": "entity",
+    "name": "Communauté urbaine de Dunkerque",
+    "short_name": "Communauté urbaine de Dunkerque",
+    "description": "Institution territoriale",
+    "roles": [
+      {
+        "label": "Institution territoriale"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0008",
+    "type": "entity",
+    "name": "Région Hauts-de-France",
+    "short_name": "Région Hauts-de-France",
+    "description": "Acteur politique régional majeur",
+    "roles": [
+      {
+        "label": "Acteur politique régional majeur"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0009",
+    "type": "organization",
+    "name": "SoftBank Group",
+    "short_name": "SoftBank Group",
+    "description": "Porteur d’un programme IA",
+    "roles": [
+      {
+        "label": "Porteur d’un programme IA"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0010",
+    "type": "organization",
+    "name": "Masayoshi Son",
+    "short_name": "Masayoshi Son",
+    "description": "Fondateur et PDG de SoftBank Group",
+    "roles": [
+      {
+        "label": "Fondateur et PDG de SoftBank Group"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0011",
+    "type": "organization",
+    "name": "Sumer Juneja",
+    "short_name": "Sumer Juneja",
+    "description": "Associé gérant de SoftBank Vision Fund",
+    "roles": [
+      {
+        "label": "Associé gérant de SoftBank Vision Fund"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0012",
+    "type": "organization",
+    "name": "Schneider Electric",
+    "short_name": "Schneider Electric",
+    "description": "Partenaire industriel",
+    "roles": [
+      {
+        "label": "Partenaire industriel"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0013",
+    "type": "organization",
+    "name": "Aymeric Renaud",
+    "short_name": "Aymeric Renaud",
+    "description": "Président de Schneider Electric France",
+    "roles": [
+      {
+        "label": "Président de Schneider Electric France"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0014",
+    "type": "organization",
+    "name": "Olivier Blum",
+    "short_name": "Olivier Blum",
+    "description": "Directeur général de Schneider Electric",
+    "roles": [
+      {
+        "label": "Directeur général de Schneider Electric"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0015",
+    "type": "organization",
+    "name": "Sesterce",
+    "short_name": "Sesterce",
+    "description": "Partenaire du projet global Hauts-de-France",
+    "roles": [
+      {
+        "label": "Partenaire du projet global Hauts-de-France"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0016",
+    "type": "organization",
+    "name": "EDF",
+    "short_name": "EDF",
+    "description": "Partenaire énergétique",
+    "roles": [
+      {
+        "label": "Partenaire énergétique"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0017",
+    "type": "organization",
+    "name": "RTE",
+    "short_name": "RTE",
+    "description": "Gestionnaire du réseau de transport d’électricité",
+    "roles": [
+      {
+        "label": "Gestionnaire du réseau de transport d’électricité"
+      }
+    ],
+    "categories": [
+      "energie",
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0018",
+    "type": "organization",
+    "name": "Grand Port Maritime de Dunkerque",
+    "short_name": "Grand Port Maritime de Dunkerque",
+    "description": "Aménageur portuaire",
+    "roles": [
+      {
+        "label": "Aménageur portuaire"
+      }
+    ],
+    "categories": [
+      "energie",
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0019",
+    "type": "organization",
+    "name": "ArcelorMittal",
+    "short_name": "ArcelorMittal",
+    "description": "Industriel local",
+    "roles": [
+      {
+        "label": "Industriel local"
+      }
+    ],
+    "categories": [
+      "energie",
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0020",
+    "type": "organization",
+    "name": "Projet EPR de Gravelines",
+    "short_name": "Projet EPR de Gravelines",
+    "description": "Élément structurant du récit territorial sur l’électricité décarbonée et cible stratégique pour les nouveaux acteurs industriels.",
+    "roles": [
+      {
+        "label": "Énergie / raccordement / foncier"
+      }
+    ],
+    "categories": [
+      "energie"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0021",
+    "type": "organization",
+    "name": "Éolien offshore",
+    "short_name": "Éolien offshore",
+    "description": "Autre pilier mis en avant dans le discours territorial sur la disponibilité d’une électricité décarbonée.",
+    "roles": [
+      {
+        "label": "Énergie / raccordement / foncier"
+      }
+    ],
+    "categories": [
+      "energie"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0022",
+    "type": "entity",
+    "name": "Loup Cellard",
+    "short_name": "Loup Cellard",
+    "description": "Sociologue spécialiste des data centers",
+    "roles": [
+      {
+        "label": "Sociologue spécialiste des data centers"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0023",
+    "type": "entity",
+    "name": "Sylvain Bersinger",
+    "short_name": "Sylvain Bersinger",
+    "description": "Économiste du cabinet Bersingéco",
+    "roles": [
+      {
+        "label": "Économiste du cabinet Bersingéco"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0024",
+    "type": "entity",
+    "name": "Consommation électrique",
+    "short_name": "Consommation électrique",
+    "description": "Le projet est extrêmement consommateur d’électricité, ce qui constitue un enjeu central du débat sur les data centers IA.",
+    "roles": [
+      {
+        "label": "Points de vigilance / griefs"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0025",
+    "type": "entity",
+    "name": "Consommation d’eau",
+    "short_name": "Consommation d’eau",
+    "description": "Le refroidissement des centres de données interroge sur la disponibilité de la ressource en eau, même si le territoire met en avant des solutions industrielles.",
+    "roles": [
+      {
+        "label": "Points de vigilance / griefs"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0026",
+    "type": "entity",
+    "name": "Faible intensité en emplois",
+    "short_name": "Faible intensité en emplois",
+    "description": "Critique récurrente : les data centers créent relativement peu d’emplois directs en phase opérationnelle par rapport aux capitaux engagés.",
+    "roles": [
+      {
+        "label": "Points de vigilance / griefs"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0027",
+    "type": "entity",
+    "name": "Artificialisation / foncier",
+    "short_name": "Artificialisation foncier",
+    "description": "Sujet de vigilance général lié à l’emprise foncière des grands centres de données.",
+    "roles": [
+      {
+        "label": "Points de vigilance / griefs"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0028",
+    "type": "entity",
+    "name": "Captation de ressources stratégiques",
+    "short_name": "Captation de ressources stratégiques",
+    "description": "Critique générale sur le risque que l’énergie et les ressources soient accaparées par des infrastructures détenues par des capitaux étrangers.",
+    "roles": [
+      {
+        "label": "Points de vigilance / griefs"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0029",
+    "type": "entity",
+    "name": "Pas d’opposition locale structurée identifiée",
+    "short_name": "Pas d’opposition locale structurée identifiée",
+    "description": "Dans le corpus étudié, aucun collectif local d’opposition ou opposant local nommément cité n’apparaît clairement à ce stade pour Loon-Plage.",
+    "roles": [
+      {
+        "label": "Points de vigilance / griefs"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0030",
+    "type": "organization",
+    "name": "La Tribune",
+    "short_name": "La Tribune",
+    "description": "Relaye les annonces de Choose France et détaille les investissements dans les infrastructures IA.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0031",
+    "type": "organization",
+    "name": "Le Monde",
+    "short_name": "Le Monde",
+    "description": "Analyse la course au gigantisme des centres de données et les enjeux d’eau, d’électricité et de foncier.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0032",
+    "type": "organization",
+    "name": "La Voix du Nord",
+    "short_name": "La Voix du Nord",
+    "description": "Source régionale majeure sur les annonces SoftBank et le rôle des acteurs politiques des Hauts-de-France.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0033",
+    "type": "organization",
+    "name": "Ici",
+    "short_name": "Ici",
+    "description": "Média relayant l’investissement de 45 Md€ dans les Hauts-de-France, dont Loon-Plage.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0034",
+    "type": "organization",
+    "name": "Les Echos",
+    "short_name": "Les Echos",
+    "description": "Cite notamment le projet d’usine Schneider à Dunkerque.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0035",
+    "type": "organization",
+    "name": "Le Républicain Lorrain",
+    "short_name": "Le Républicain Lorrain",
+    "description": "Fournit un cadrage critique sur l’emploi et l’impact économique des data centers.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0036",
+    "type": "organization",
+    "name": "Zonebourse",
+    "short_name": "Zonebourse",
+    "description": "Relaye le partenariat industriel et technologique de Schneider Electric avec SoftBank.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0037",
+    "type": "project",
+    "name": "Pôle industriel Foselev — Petite-Synthe",
+    "short_name": "Pôle industriel Foselev",
+    "description": "Nouveau hub industriel de 13 hectares et 34 000 m² d'ateliers près de Dunkerque, regroupant quatre filiales du groupe.",
+    "roles": [
+      {
+        "label": "Projet central"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0038",
+    "type": "organization",
+    "name": "Foselev",
+    "short_name": "Foselev",
+    "description": "Groupe aixois (levage et maintenance)",
+    "roles": [
+      {
+        "label": "Groupe aixois (levage et maintenance)"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0039",
+    "type": "organization",
+    "name": "Henri Brière",
+    "short_name": "Henri Brière",
+    "description": "Fondateur de Foselev",
+    "roles": [
+      {
+        "label": "Fondateur de Foselev"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0040",
+    "type": "organization",
+    "name": "Coficiel Solutions Modulaires",
+    "short_name": "Coficiel Solutions",
+    "description": "Filiale",
+    "roles": [
+      {
+        "label": "Filiale"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0041",
+    "type": "organization",
+    "name": "Foselev Hauts-de-France",
+    "short_name": "Foselev Hauts-de-France",
+    "description": "Filiale",
+    "roles": [
+      {
+        "label": "Filiale"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0042",
+    "type": "organization",
+    "name": "Cimat Sartec",
+    "short_name": "Cimat Sartec",
+    "description": "Filiale",
+    "roles": [
+      {
+        "label": "Filiale"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0043",
+    "type": "organization",
+    "name": "Technic Hydro Formation",
+    "short_name": "Technic Hydro Formation",
+    "description": "Filiale",
+    "roles": [
+      {
+        "label": "Filiale"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0044",
+    "type": "organization",
+    "name": "Sise",
+    "short_name": "Sise",
+    "description": "Filiale basée à Fort-Mardyck",
+    "roles": [
+      {
+        "label": "Filiale basée à Fort-Mardyck"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0045",
+    "type": "organization",
+    "name": "STL",
+    "short_name": "STL",
+    "description": "Filiale basée à Ruitz",
+    "roles": [
+      {
+        "label": "Filiale basée à Ruitz"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0046",
+    "type": "organization",
+    "name": "Canal Seine-Nord Europe",
+    "short_name": "Canal Seine-Nord",
+    "description": "Grand chantier d'infrastructure ciblé par la stratégie de développement de Foselev.",
+    "roles": [
+      {
+        "label": "Énergie / raccordement / foncier"
+      }
+    ],
+    "categories": [
+      "energie"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0047",
+    "type": "organization",
+    "name": "Projets Datacenters",
+    "short_name": "Projets Datacenters",
+    "description": "Marché territorial global visé par l'offre de construction modulaire et de maintenance.",
+    "roles": [
+      {
+        "label": "Énergie / raccordement / foncier"
+      }
+    ],
+    "categories": [
+      "energie"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0048",
+    "type": "organization",
+    "name": "Gigafactories",
+    "short_name": "Gigafactories",
+    "description": "Usines de batteries en développement, représentant un relais de croissance majeur dans la région.",
+    "roles": [
+      {
+        "label": "Énergie / raccordement / foncier"
+      }
+    ],
+    "categories": [
+      "energie"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0049",
+    "type": "organization",
+    "name": "Sikander Rashid",
+    "short_name": "S. Rashid (Brookfield)",
+    "description": "Responsable, Brookfield",
+    "roles": [
+      {
+        "label": "Responsable, Brookfield"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0050",
+    "type": "organization",
+    "name": "Brookfield",
+    "short_name": "Brookfield",
+    "description": "Gestionnaire d'actifs",
+    "roles": [
+      {
+        "label": "Gestionnaire d'actifs"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0051",
+    "type": "organization",
+    "name": "Usine d'Angers",
+    "short_name": "Usine d'Angers",
+    "description": "Site d'assemblage",
+    "roles": [
+      {
+        "label": "Site d'assemblage"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0052",
+    "type": "project",
+    "name": "Bouchain",
+    "short_name": "Bouchain",
+    "description": "Commune d'implantation",
+    "roles": [
+      {
+        "label": "Commune d'implantation"
+      }
+    ],
+    "categories": [
+      "project",
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0053",
+    "type": "organization",
+    "name": "La Voix de France",
+    "short_name": "La Voix de France",
+    "description": "Média couvrant les annonces du sommet Choose France et la macro-économie des datacenters.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0054",
+    "type": "organization",
+    "name": "Journal du Net",
+    "short_name": "JDN",
+    "description": "Analyse le nouveau paradigme de la souveraineté numérique par les infrastructures physiques.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0055",
+    "type": "entity",
+    "name": "État",
+    "short_name": "État",
+    "description": "Pouvoir public national",
+    "roles": [
+      {
+        "label": "Pouvoir public national"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0056",
+    "type": "organization",
+    "name": "CRE",
+    "short_name": "CRE",
+    "description": "Commission de régulation de l’énergie",
+    "roles": [
+      {
+        "label": "Commission de régulation de l’énergie"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0057",
+    "type": "entity",
+    "name": "Roland Lescure",
+    "short_name": "Roland Lescure",
+    "description": "Ministre de l’Économie",
+    "roles": [
+      {
+        "label": "Ministre de l’Économie"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0058",
+    "type": "organization",
+    "name": "Legrand",
+    "short_name": "Legrand",
+    "description": "Groupe industriel français",
+    "roles": [
+      {
+        "label": "Groupe industriel français"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  }
+]

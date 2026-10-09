@@ -1,0 +1,128 @@
+[
+  {
+    "id": "source_0001",
+    "title": "La Tribune : Relaye les annonces de Choose France et détaille les investissements dans les infrastructures IA.",
+    "publisher": "La Tribune ",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0002",
+    "title": "Le Monde : Analyse la course au gigantisme des centres de données et les enjeux d’eau, d’électricité et de foncier.",
+    "publisher": "Le Monde ",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0003",
+    "title": "La Voix du Nord : Source régionale majeure sur les annonces SoftBank et le rôle des acteurs politiques des Hauts-de-France.",
+    "publisher": "La Voix du Nord ",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0004",
+    "title": "Ici : Média relayant l’investissement de 45 Md€ dans les Hauts-de-France, dont Loon-Plage.",
+    "publisher": "Ici ",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0005",
+    "title": "Les Echos : Cite notamment le projet d’usine Schneider à Dunkerque.",
+    "publisher": "Les Echos ",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0006",
+    "title": "Le Républicain Lorrain : Fournit un cadrage critique sur l’emploi et l’impact économique des data centers.",
+    "publisher": "Le Républicain Lorrain ",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0007",
+    "title": "Zonebourse : Relaye le partenariat industriel et technologique de Schneider Electric avec SoftBank.",
+    "publisher": "Zonebourse ",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0008",
+    "title": "La Voix de France : Documente précisément les chiffres officiels de Choose France 2026, la répartition des gigawatts et l'implication de Brookfield.",
+    "publisher": "La Voix de France ",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0009",
+    "title": "Journal du Net : Fournit un angle d'analyse macro-stratégique sur l'évolution du concept de souveraineté numérique (DORA, NIS2) par le prisme des data centers physiques.",
+    "publisher": "Journal du Net ",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0010",
+    "title": "RTE Services : Communication du 17 septembre 2026 documentant la pré-réservation de 1 300 MW à Loon-Plage pendant neuf mois, la prolongation des 700 MW de Bourbourg et les conditions de la procédure Fast Track.",
+    "publisher": "RTE Services ",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0011",
+    "title": "Nord Littoral : Article du 21 septembre 2026 sur les capacités nouvellement réservées et la progression attendue de la consommation électrique du bassin dunkerquois jusqu’en 2040.",
+    "publisher": "Nord Littoral ",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0012",
+    "title": "Le Nouvel Économiste : Article du 11 septembre 2026 consacré au rapport entre les milliards annoncés par SoftBank et le nombre limité d’emplois directement identifiables, dont 150 au minimum pour l’usine Schneider Electric.",
+    "publisher": "Le Nouvel Économiste ",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0013",
+    "title": "ReFrance : Article du 7 septembre 2026 sur l’alerte de Roland Lescure concernant l’acceptabilité sociale, le programme SoftBank dans les Hauts-de-France et le pôle industriel Schneider Electric à Dunkerque.",
+    "publisher": "ReFrance ",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0014",
+    "title": "Économie Matin : Article du 27 août 2026 replaçant le projet dans la déconnexion nationale entre investissements records et faible création nette d’emplois.",
+    "publisher": "Économie Matin ",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  }
+]

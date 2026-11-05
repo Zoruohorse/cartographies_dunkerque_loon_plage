@@ -4,1231 +4,1174 @@
     "source_id": "project_dunkerque",
     "target_id": "actor_0002",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "SoftBank annonce une implantation industrielle Schneider Electric à Dunkerque dans le cadre du même programme IA, sans fusionner usine et data center.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0009"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0002",
     "source_id": "project_dunkerque",
     "target_id": "actor_0003",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Le site du programme SoftBank est situé à Loon-Plage, dans l’agglomération de Dunkerque.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0006"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0003",
     "source_id": "project_dunkerque",
     "target_id": "actor_0004",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Patrice Vergriete exprime dans le communiqué de SoftBank un soutien au projet de Loon-Plage.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0004",
     "source_id": "project_dunkerque",
     "target_id": "actor_0005",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Xavier Bertrand salue publiquement le programme régional SoftBank comprenant Loon-Plage.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0005",
     "source_id": "project_dunkerque",
     "target_id": "actor_0006",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Le programme SoftBank est annoncé dans le contexte du sommet Choose France porté par l’exécutif.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0006",
     "source_id": "project_dunkerque",
     "target_id": "actor_0007",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "La Communauté urbaine de Dunkerque, par la voix de Patrice Vergriete, soutient l’implantation SoftBank.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0004"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0007",
     "source_id": "project_dunkerque",
     "target_id": "actor_0008",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "La Région Hauts-de-France est associée à la préparation territoriale des annonces d’implantation SoftBank.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0005"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0008",
     "source_id": "project_dunkerque",
     "target_id": "actor_0009",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "SoftBank Group est le porteur déclaré du programme IA comprenant le projet à Loon-Plage.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0006"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0009",
     "source_id": "project_dunkerque",
     "target_id": "actor_0010",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Masayoshi Son représente la direction de SoftBank lors de l’annonce du programme de data centers en France.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0007"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0010",
     "source_id": "project_dunkerque",
     "target_id": "actor_0011",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Sumer Juneja est cité comme représentant SoftBank pour l’explication du phasage régional du programme.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0008"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0011",
     "source_id": "project_dunkerque",
     "target_id": "actor_0012",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Schneider Electric confirme une coopération industrielle avec SoftBank, incluant une installation industrielle au port de Dunkerque.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0009"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0012",
     "source_id": "project_dunkerque",
     "target_id": "actor_0013",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Aymeric Renaud expose publiquement la fabrication modulaire annoncée par Schneider Electric à Dunkerque, liée au programme.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0010"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0013",
     "source_id": "project_dunkerque",
     "target_id": "actor_0014",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Olivier Blum commente les perspectives de l’usine industrielle Schneider liée au programme SoftBank. Les emplois cités concernent l’usine, pas le data center.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0011"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0014",
-    "source_id": "project_dunkerque",
-    "target_id": "actor_0015",
-    "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0015",
-    "source_id": "project_dunkerque",
-    "target_id": "actor_0016",
-    "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0016",
     "source_id": "project_dunkerque",
     "target_id": "actor_0017",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "RTE SA est l’un des maîtres d’ouvrage désignés dans la décision CNDP pour la concertation sur le raccordement électrique THT du projet.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0035"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0017",
     "source_id": "project_dunkerque",
     "target_id": "actor_0018",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Le Grand Port Maritime de Dunkerque est l’un des trois maîtres d’ouvrage cités par la CNDP pour les aménagements liés au projet.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0035"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0018",
-    "source_id": "project_dunkerque",
-    "target_id": "actor_0019",
-    "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0019",
-    "source_id": "project_dunkerque",
-    "target_id": "actor_0020",
-    "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0020",
-    "source_id": "project_dunkerque",
-    "target_id": "actor_0021",
-    "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0021",
-    "source_id": "project_dunkerque",
-    "target_id": "actor_0022",
-    "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0022",
-    "source_id": "project_dunkerque",
-    "target_id": "actor_0023",
-    "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0023",
     "source_id": "project_dunkerque",
     "target_id": "actor_0024",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "La pré-réservation RTE de 1 300 MW sur Zone Industries Avenir confirme un enjeu électrique territorial ; elle ne vaut pas attribution exclusive à SoftBank.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0014"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0024",
     "source_id": "project_dunkerque",
     "target_id": "actor_0025",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "La décision CNDP inclut les aménagements hydrauliques du projet, sans spécifier la consommation d’eau du centre de calcul.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0035"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0025",
     "source_id": "project_dunkerque",
     "target_id": "actor_0026",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Les critiques nationales sur l’intensité en emplois des data centers constituent un thème de vigilance, sans établir le bilan réel de SoftBank Loon-Plage.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0017"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0026",
     "source_id": "project_dunkerque",
     "target_id": "actor_0027",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Le site de Loon-Plage et ses aménagements sont inscrits dans un projet ayant une emprise foncière portuaire à organiser et à concerter.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0035"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0027",
-    "source_id": "project_dunkerque",
-    "target_id": "actor_0028",
-    "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0028",
     "source_id": "project_dunkerque",
     "target_id": "actor_0029",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "La Lettre rapporte des recours envisagés par des ONG nationales, sans preuve d’un collectif local structuré ni de recours déposés.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0041"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0029",
-    "source_id": "project_dunkerque",
-    "target_id": "actor_0002",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0030",
-    "source_id": "project_dunkerque",
-    "target_id": "actor_0003",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0031",
     "source_id": "actor_0004",
     "target_id": "actor_0007",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "type": "represents",
+    "summary": "Patrice Vergriete est président de la Communauté urbaine de Dunkerque et cosigne une déclaration d’accueil du projet.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0032",
     "source_id": "actor_0004",
     "target_id": "actor_0018",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Patrice Vergriete et Maurice Georges, directeur général du Port de Dunkerque, signent une déclaration commune de soutien au projet.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0037"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0033",
-    "source_id": "actor_0004",
-    "target_id": "actor_0020",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0034",
-    "source_id": "actor_0004",
-    "target_id": "actor_0021",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0035",
-    "source_id": "actor_0004",
-    "target_id": "actor_0019",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0036",
     "source_id": "actor_0005",
     "target_id": "actor_0008",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Xavier Bertrand exprime son soutien aux investissements SoftBank à l’échelle des Hauts-de-France qu’il préside.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0037",
     "source_id": "actor_0005",
     "target_id": "actor_0009",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "La Voix du Nord décrit les échanges entre la Région Hauts-de-France, Xavier Bertrand et SoftBank autour du projet.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0005"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0038",
     "source_id": "actor_0006",
     "target_id": "actor_0009",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Le programme SoftBank est annoncé lors de Choose France dans le cadre de la stratégie française d’attractivité.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0039",
     "source_id": "actor_0009",
     "target_id": "actor_0010",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Masayoshi Son dirige SoftBank et incarne publiquement l’annonce d’investissement français.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0007"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0040",
     "source_id": "actor_0009",
     "target_id": "actor_0011",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Sumer Juneja représente SoftBank dans les explications publiques sur les projets régionaux.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0008"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0041",
     "source_id": "actor_0009",
     "target_id": "actor_0012",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "type": "partnered_with",
+    "summary": "SoftBank et Schneider Electric annoncent un partenariat industriel et technologique sur la chaîne de fabrication de modules de data centers à Dunkerque.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0009",
+      "evidence_0039"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0042",
     "source_id": "actor_0009",
     "target_id": "actor_0015",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Sesterce intervient dans le programme régional de SoftBank au Bosquel ; aucun rôle propre à Loon-Plage n’est établi.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0012"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0043",
     "source_id": "actor_0009",
     "target_id": "actor_0016",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "SoftBank mentionne une collaboration avec EDF pour le site de Bouchain ; aucun contrat électrique précis à Loon-Plage n’est établi.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0013"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0044",
     "source_id": "actor_0009",
     "target_id": "actor_0017",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "RTE est cité comme l’un des maîtres d’ouvrage de la concertation du centre de calcul et de ses aménagements électriques.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0035"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0045",
     "source_id": "actor_0012",
     "target_id": "actor_0013",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Aymeric Renaud est cité comme responsable de Schneider Electric France à propos de la future préfab-factory.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0010"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0046",
     "source_id": "actor_0012",
     "target_id": "actor_0014",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Olivier Blum annonce les perspectives de l’usine Schneider Electric dans les médias.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0011"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0047",
     "source_id": "actor_0012",
     "target_id": "actor_0002",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Schneider Electric prévoit d’investir et d’exploiter au port de Dunkerque une usine de modules électriques préfabriqués.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0009"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0048",
     "source_id": "actor_0018",
     "target_id": "actor_0002",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "SoftBank distingue son unité manufacturière et l’usine Schneider envisagées sur le port de Dunkerque, où intervient le Grand Port Maritime.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0039"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0049",
     "source_id": "actor_0017",
     "target_id": "actor_0024",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "RTE annonce une pré-réservation de puissance sur une zone portuaire, documentant l’enjeu de capacité électrique.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0014"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0050",
     "source_id": "actor_0019",
     "target_id": "actor_0025",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "ArcelorMittal Dunkerque mène des actions de recyclage de l’eau industrielle et réduit les besoins d’eau douce de ses outils de production ; aucune synergie hydrique avec SoftBank n’est affirmée.",
+    "certainty": "high",
+    "status": "qualified_first_party_water_management",
+    "evidence_ids": [
+      "evidence_0016"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04",
+    "source_relation_kind": "gestion de l’eau industrielle"
   },
   {
     "id": "relation_0051",
     "source_id": "actor_0022",
     "target_id": "actor_0026",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Loup Cellard émet des critiques sur la faible intensité en emplois des data centers comme secteur, non sur un chiffre établi du projet SoftBank.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0017"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0052",
-    "source_id": "actor_0022",
-    "target_id": "actor_0025",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0053",
-    "source_id": "actor_0022",
-    "target_id": "actor_0024",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0054",
     "source_id": "actor_0023",
     "target_id": "actor_0026",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Sylvain Bersinger formule des réserves sur le volume d’emplois permanents générés par les data centers, sans bilan chiffré propre à Loon-Plage.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0018"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0055",
-    "source_id": "actor_0024",
-    "target_id": "actor_0025",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0056",
-    "source_id": "actor_0024",
-    "target_id": "actor_0028",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0057",
-    "source_id": "actor_0027",
-    "target_id": "actor_0028",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0058",
-    "source_id": "actor_0029",
-    "target_id": "project_dunkerque",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0059",
     "source_id": "project_dunkerque",
     "target_id": "actor_0030",
     "type": "covered_by",
-    "summary": "source / couverture — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "La Tribune couvre le dossier SoftBank et/ou ses implications industrielles à Dunkerque ; une couverture n’établit aucune position éditoriale sur le projet.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0043"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "source / couverture"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0060",
     "source_id": "project_dunkerque",
     "target_id": "actor_0031",
     "type": "covered_by",
-    "summary": "source / couverture — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Le Monde couvre le dossier SoftBank et/ou ses implications industrielles à Dunkerque ; une couverture n’établit aucune position éditoriale sur le projet.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0044"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "source / couverture"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0061",
     "source_id": "project_dunkerque",
     "target_id": "actor_0032",
     "type": "covered_by",
-    "summary": "source / couverture — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "La Voix du Nord couvre le dossier SoftBank et/ou ses implications industrielles à Dunkerque ; une couverture n’établit aucune position éditoriale sur le projet.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0045"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "source / couverture"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0062",
     "source_id": "project_dunkerque",
     "target_id": "actor_0033",
     "type": "covered_by",
-    "summary": "source / couverture — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Ici couvre le dossier SoftBank et/ou ses implications industrielles à Dunkerque ; une couverture n’établit aucune position éditoriale sur le projet.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0046"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "source / couverture"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0063",
     "source_id": "project_dunkerque",
     "target_id": "actor_0034",
     "type": "covered_by",
-    "summary": "source / couverture — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Les Échos couvre le dossier SoftBank et/ou ses implications industrielles à Dunkerque ; une couverture n’établit aucune position éditoriale sur le projet.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0047"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "source / couverture"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0064",
     "source_id": "project_dunkerque",
     "target_id": "actor_0035",
     "type": "covered_by",
-    "summary": "source / couverture — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Le Républicain Lorrain couvre le dossier SoftBank et/ou ses implications industrielles à Dunkerque ; une couverture n’établit aucune position éditoriale sur le projet.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0048"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "source / couverture"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0065",
     "source_id": "project_dunkerque",
     "target_id": "actor_0036",
     "type": "covered_by",
-    "summary": "source / couverture — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Zonebourse couvre le dossier SoftBank et/ou ses implications industrielles à Dunkerque ; une couverture n’établit aucune position éditoriale sur le projet.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0049"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "source / couverture"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0066",
     "source_id": "actor_0039",
     "target_id": "actor_0038",
     "type": "associated_with",
-    "summary": "rôle / position — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Henri Brière, fondateur de Foselev, commente l’ouverture de son pôle industriel à Petite-Synthe.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0020"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0067",
     "source_id": "actor_0038",
     "target_id": "actor_0037",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Foselev a inauguré et structuré son pôle industriel de Petite-Synthe pour des grands projets industriels régionaux.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0019"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0068",
     "source_id": "actor_0037",
     "target_id": "actor_0040",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Coficiel Solutions Modulaires est l’une des quatre filiales présentes dans le pôle de Petite-Synthe.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0021"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0069",
     "source_id": "actor_0037",
     "target_id": "actor_0041",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Foselev Hauts-de-France est l’une des quatre filiales présentes dans le pôle de Petite-Synthe.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0022"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0070",
     "source_id": "actor_0037",
     "target_id": "actor_0042",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Cimat Sartec est l’une des quatre filiales présentes dans le pôle de Petite-Synthe.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0023"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0071",
     "source_id": "actor_0037",
     "target_id": "actor_0043",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Technic Hydro Formation est l’une des quatre filiales présentes dans le pôle de Petite-Synthe.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0024"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0072",
     "source_id": "actor_0038",
     "target_id": "actor_0044",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Foselev possède la filiale Sise, implantée à Fort-Mardyck, selon Le Journal des Entreprises.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0025"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0073",
     "source_id": "actor_0038",
     "target_id": "actor_0045",
     "type": "associated_with",
-    "summary": "interaction / rattachement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Foselev possède la filiale STL, implantée à Ruitz, selon Le Journal des Entreprises.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0026"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0074",
     "source_id": "actor_0038",
     "target_id": "actor_0020",
     "type": "targets_market",
-    "summary": "cible stratégique / positionnement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Le groupe Foselev se positionne sur les marchés industriels régionaux, dont l’EPR2 Gravelines ; aucun marché attribué n’est présumé.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0019"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "cible stratégique / positionnement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0075",
     "source_id": "actor_0038",
     "target_id": "actor_0046",
     "type": "targets_market",
-    "summary": "cible stratégique / positionnement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Le groupe Foselev cible les prestations pour le chantier Canal Seine-Nord Europe ; ce ciblage commercial ne prouve pas un contrat signé.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0019"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "cible stratégique / positionnement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0076",
     "source_id": "actor_0038",
     "target_id": "actor_0047",
     "type": "targets_market",
-    "summary": "cible stratégique / positionnement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Le groupe Foselev cible les futurs data centers régionaux, sans preuve de participation à SoftBank Loon-Plage.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0019"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "cible stratégique / positionnement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0077",
     "source_id": "actor_0038",
     "target_id": "actor_0048",
     "type": "targets_market",
-    "summary": "cible stratégique / positionnement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Le groupe Foselev cible les gigafactories régionales sans preuve d’un marché obtenu.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0019"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "cible stratégique / positionnement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0078",
     "source_id": "actor_0038",
     "target_id": "actor_0018",
     "type": "targets_market",
-    "summary": "cible stratégique / positionnement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Le groupe Foselev cible les projets industriels du Grand Port de Dunkerque ; ce ciblage ne prouve pas une prestation contractuelle.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0019"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "cible stratégique / positionnement"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0079",
     "source_id": "actor_0049",
     "target_id": "actor_0050",
     "type": "represents",
-    "summary": "représentation — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "Sikander Rashid est présenté par la presse comme dirigeant de Brookfield pour ses investissements français en IA.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0027"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "représentation"
-  },
-  {
-    "id": "relation_0080",
-    "source_id": "actor_0050",
-    "target_id": "project_dunkerque",
-    "type": "associated_with",
-    "summary": "co-investissement — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "co-investissement"
-  },
-  {
-    "id": "relation_0081",
-    "source_id": "actor_0009",
-    "target_id": "actor_0051",
-    "type": "associated_with",
-    "summary": "dépendance matérielle — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "dépendance matérielle"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0082",
     "source_id": "actor_0009",
     "target_id": "actor_0052",
     "type": "associated_with",
-    "summary": "déploiement régional — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "SoftBank présente Bouchain parmi les trois sites de la première phase régionale aux côtés de Loon-Plage et Le Bosquel.",
+    "certainty": "high",
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0030"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "déploiement régional"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0083",
     "source_id": "project_dunkerque",
     "target_id": "actor_0053",
     "type": "covered_by",
-    "summary": "source / couverture — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
+    "summary": "La Voix de France publie une couverture du programme SoftBank annoncé dans les Hauts-de-France.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0028"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "source / couverture"
-  },
-  {
-    "id": "relation_0084",
-    "source_id": "project_dunkerque",
-    "target_id": "actor_0054",
-    "type": "covered_by",
-    "summary": "source / couverture — relation signalée dans le réseau initial. Nature et justification documentaire à qualifier.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "source / couverture"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0085",
     "source_id": "actor_0055",
     "target_id": "actor_0017",
     "type": "associated_with",
-    "summary": "Demande de pré-réservation de 1 300 MW à Loon-Plage, formulée dans la fiche État.",
-    "certainty": "medium",
-    "status": "inferred_from_provided_actor_cards",
-    "evidence_ids": [],
+    "summary": "L’État demande à RTE la pré-réservation, à compter du 17 septembre 2026, de 1 300 MW sur la zone Industries Avenir à Loon-Plage.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0014"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "mention contextuelle"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0086",
     "source_id": "actor_0056",
     "target_id": "actor_0017",
     "type": "associated_with",
-    "summary": "Cadre réglementaire Fast Track mentionné dans la fiche CRE ; aucun raccordement particulier n’est ici présumé approuvé.",
-    "certainty": "medium",
-    "status": "inferred_from_provided_actor_cards",
-    "evidence_ids": [],
+    "summary": "La CRE a approuvé le 7 mai 2025 le cadre de raccordement accéléré mis en œuvre par RTE, sans valider pour autant le projet SoftBank lui-même.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0032"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "mention contextuelle"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0087",
     "source_id": "actor_0057",
     "target_id": "project_dunkerque",
     "type": "associated_with",
-    "summary": "Prise de parole nationale sur l’acceptabilité des data centers ; lien de contexte, sans position propre démontrée sur ce site.",
-    "certainty": "medium",
-    "status": "inferred_from_provided_actor_cards",
-    "evidence_ids": [],
+    "summary": "Le communiqué SoftBank attribue à Roland Lescure un soutien explicite au programme, tandis que sa prise de parole de septembre rappelle l’enjeu d’acceptabilité locale.",
+    "certainty": "high",
+    "status": "qualified_first_party_statement",
+    "evidence_ids": [
+      "evidence_0050",
+      "evidence_0033"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "mention contextuelle"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "relation_0088",
     "source_id": "actor_0058",
     "target_id": "actor_0057",
     "type": "associated_with",
-    "summary": "Legrand est cité par Roland Lescure parmi les industriels français du secteur ; aucun contrat local n’est établi.",
+    "summary": "Legrand est cité par Roland Lescure parmi les industriels de la filière, sans fourniture particulière à SoftBank Loon-Plage identifiée.",
     "certainty": "medium",
-    "status": "inferred_from_provided_actor_cards",
-    "evidence_ids": [],
+    "status": "qualified_documentary_link_or_explicit_context",
+    "evidence_ids": [
+      "evidence_0034"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "mention contextuelle"
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "relation_0089",
+    "source_id": "actor_0059",
+    "target_id": "project_dunkerque",
+    "type": "associated_with",
+    "summary": "La CNDP organise la désignation des garants pour la concertation préalable du centre de calcul et de ses aménagements associés.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0035"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "relation_0090",
+    "source_id": "actor_0060",
+    "target_id": "project_dunkerque",
+    "type": "participates_in",
+    "summary": "Paul Galli est nommé garant de la concertation préalable de ce projet.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0035"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "relation_0091",
+    "source_id": "actor_0061",
+    "target_id": "project_dunkerque",
+    "type": "participates_in",
+    "summary": "Jean-Michel Stievenard est nommé garant de la concertation préalable de ce projet.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0035"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "relation_0092",
+    "source_id": "actor_0062",
+    "target_id": "project_dunkerque",
+    "type": "associated_with",
+    "summary": "Le directeur de Silver Bands 4 (US) Corp. a cosigné la saisine CNDP pour le compte des maîtres d’ouvrage ; aucun contrat ni lien capitalistique n’est présumé.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0036"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "relation_0093",
+    "source_id": "actor_0063",
+    "target_id": "actor_0018",
+    "type": "represents",
+    "summary": "Maurice Georges est nommé dans le communiqué SoftBank en tant que directeur général du Port de Dunkerque.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0037"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "relation_0094",
+    "source_id": "actor_0064",
+    "target_id": "actor_0018",
+    "type": "coordinates_with",
+    "summary": "Business France est cité dans une collaboration de préparation du projet avec l’autorité du Port de Dunkerque.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0038"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "relation_0095",
+    "source_id": "actor_0009",
+    "target_id": "actor_0065",
+    "type": "associated_with",
+    "summary": "SoftBank prévoit d’exploiter une unité de fabrication de boîtiers au port de Dunkerque, distincte de celle de Schneider.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0039"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "relation_0096",
+    "source_id": "project_dunkerque",
+    "target_id": "actor_0065",
+    "type": "associated_with",
+    "summary": "L’unité de fabrication de boîtiers SoftBank est une composante industrielle connexe du programme IA annoncé à Dunkerque.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0039"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "relation_0097",
+    "source_id": "actor_0018",
+    "target_id": "actor_0066",
+    "type": "associated_with",
+    "summary": "Le site de Bourbourg sur la zone Grande Industrie est un emplacement portuaire distinct de Loon-Plage.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0040"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "relation_0098",
+    "source_id": "actor_0017",
+    "target_id": "actor_0066",
+    "type": "associated_with",
+    "summary": "RTE confirme la prolongation de pré-réservation de 700 MW à Bourbourg, à distinguer des 1 300 MW de Loon-Plage.",
+    "certainty": "high",
+    "status": "documented_from_qualified_source",
+    "evidence_ids": [
+      "evidence_0040"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "relation_0099",
+    "source_id": "actor_0067",
+    "target_id": "project_dunkerque",
+    "type": "associated_with",
+    "summary": "La Lettre rapporte que cette association envisage une action contentieuse contre le programme SoftBank à Dunkerque ; le dépôt d’un recours n’est pas démontré.",
+    "certainty": "medium",
+    "status": "reported_intended_action_no_litigation_verified",
+    "evidence_ids": [
+      "evidence_0041"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-04",
+    "source_relation_kind": "recours envisagé, non déposé"
+  },
+  {
+    "id": "relation_0100",
+    "source_id": "actor_0068",
+    "target_id": "project_dunkerque",
+    "type": "associated_with",
+    "summary": "La Lettre rapporte que cette association envisage une action contentieuse contre le programme SoftBank à Dunkerque ; le dépôt d’un recours n’est pas démontré.",
+    "certainty": "medium",
+    "status": "reported_intended_action_no_litigation_verified",
+    "evidence_ids": [
+      "evidence_0042"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-04",
+    "source_relation_kind": "recours envisagé, non déposé"
   }
 ]

@@ -4,7 +4,7 @@
     "type": "project",
     "name": "Data center SoftBank — Loon-Plage / Dunkerque",
     "short_name": "Data center SoftBank Loon-Plage Dunkerque",
-    "description": "Projet de data center IA porté par SoftBank à Loon-Plage, près de Dunkerque. Le site devrait atteindre progressivement environ 1,3 GW de capacité dans la première phase des investissements annoncés lors de Choose France.",
+    "description": "Projet de centre de calcul de SoftBank à Loon-Plage. La presse régionale évoque une montée progressive jusqu’à environ 1,3 GW pour le site ; ce chiffre prévisionnel ne doit pas être confondu avec la pré-réservation RTE de 1 300 MW sur la Zone Industries Avenir. La procédure de concertation CNDP englobe aussi le raccordement THT et les aménagements hydrauliques et routiers.",
     "roles": [
       {
         "label": "Projet central"
@@ -14,7 +14,7 @@
       "project"
     ],
     "display_in_cards": false,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "actor_0002",
@@ -480,20 +480,20 @@
   },
   {
     "id": "actor_0029",
-    "type": "entity",
-    "name": "Pas d’opposition locale structurée identifiée",
-    "short_name": "Pas d’opposition locale structurée identifiée",
-    "description": "Dans le corpus étudié, aucun collectif local d’opposition ou opposant local nommément cité n’apparaît clairement à ce stade pour Loon-Plage.",
+    "type": "issue",
+    "name": "Mobilisations nationales — opposition locale à suivre",
+    "short_name": "Opposition nationale / locale",
+    "description": "La Lettre indique en septembre 2026 que FNE et Les Amis de la Terre envisagent des recours contre le projet SoftBank à Dunkerque. Aucune procédure formelle déposée ni collectif local autonome n’est établi dans le corpus.",
     "roles": [
       {
-        "label": "Points de vigilance / griefs"
+        "label": "Vigilance sur la structuration des oppositions"
       }
     ],
     "categories": [
       "vigilance"
     ],
     "display_in_cards": false,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "actor_0030",
@@ -855,19 +855,19 @@
   {
     "id": "actor_0051",
     "type": "organization",
-    "name": "Usine d'Angers",
-    "short_name": "Usine d'Angers",
-    "description": "Site d'assemblage",
+    "name": "Usine Bull — Angers",
+    "short_name": "Usine Bull — Angers",
+    "description": "Usine Bull d’assemblage de supercalculateurs et serveurs d’IA à Angers, modernisée et inaugurée en octobre 2026. Un partenariat Bull–Foxconn est documenté ; aucune fourniture propre à SoftBank Loon-Plage n’a été vérifiée. Acteur de filière nationale, pas fournisseur local établi.",
     "roles": [
       {
-        "label": "Site d'assemblage"
+        "label": "Usine de supercalculateurs Bull, rôle direct à Loon-Plage non établi"
       }
     ],
     "categories": [
       "porteurs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "actor_0052",
@@ -988,5 +988,175 @@
     ],
     "display_in_cards": true,
     "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0059",
+    "type": "organization",
+    "name": "Commission nationale du débat public (CNDP)",
+    "short_name": "Commission nationale du débat public (CNDP)",
+    "description": "Autorité ayant désigné le 7 octobre 2026 les garants de la concertation préalable du projet Loon-Plage.",
+    "roles": [
+      {
+        "label": "Autorité de garantie de la participation"
+      }
+    ],
+    "categories": [
+      "concertation"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "actor_0060",
+    "type": "person",
+    "name": "Paul Galli",
+    "short_name": "Paul Galli",
+    "description": "Garant de la concertation préalable du centre de calcul et des aménagements associés à Loon-Plage, désigné par la CNDP le 7 octobre 2026.",
+    "roles": [
+      {
+        "label": "Garant CNDP"
+      }
+    ],
+    "categories": [
+      "concertation"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "actor_0061",
+    "type": "person",
+    "name": "Jean-Michel Stievenard",
+    "short_name": "Jean-Michel Stievenard",
+    "description": "Garant de la concertation préalable du centre de calcul et des aménagements associés à Loon-Plage, désigné par la CNDP le 7 octobre 2026.",
+    "roles": [
+      {
+        "label": "Garant CNDP"
+      }
+    ],
+    "categories": [
+      "concertation"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "actor_0062",
+    "type": "organization",
+    "name": "Silver Bands 4 (US) Corp.",
+    "short_name": "Silver Bands 4 (US) Corp.",
+    "description": "Société dont le directeur cosigne la saisine CNDP du 23 septembre 2026. Son statut de filiale et sa responsabilité contractuelle ne sont pas établis par cette seule décision.",
+    "roles": [
+      {
+        "label": "Intervenant dans la saisine CNDP"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "actor_0063",
+    "type": "person",
+    "name": "Maurice Georges",
+    "short_name": "Maurice Georges",
+    "description": "Directeur général du Port de Dunkerque ; signataire d’une déclaration conjointe avec Patrice Vergriete accueillant favorablement le programme SoftBank.",
+    "roles": [
+      {
+        "label": "Directeur général du Port de Dunkerque"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "actor_0064",
+    "type": "organization",
+    "name": "Business France",
+    "short_name": "Business France",
+    "description": "Organisation citée dans le communiqué SoftBank parmi les acteurs ayant collaboré à la préparation du projet avec l’autorité portuaire.",
+    "roles": [
+      {
+        "label": "Accompagnement de l’investissement"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "actor_0065",
+    "type": "project",
+    "name": "Unité de fabrication de boîtiers SoftBank — port de Dunkerque",
+    "short_name": "Unité de fabrication de boîtiers SoftBank — port de Dunkerque",
+    "description": "Unité de fabrication de boîtiers pour data centers annoncée par SoftBank au port de Dunkerque ; distincte de l’usine Schneider de modules électriques.",
+    "roles": [
+      {
+        "label": "Projet industriel connexe"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "actor_0066",
+    "type": "project",
+    "name": "AMI datacenter / supercalculateur — Bourbourg, Zone Grande Industrie",
+    "short_name": "AMI datacenter / supercalculateur — Bourbourg, Zone Grande Industrie",
+    "description": "Projet d’accueil de data center ou supercalculateur dans la zone Grande Industrie à Bourbourg ; capacité de 700 MW pré-réservée et prolongée. Distinct du site Zone Industries Avenir de Loon-Plage.",
+    "roles": [
+      {
+        "label": "Projet portuaire distinct"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "actor_0067",
+    "type": "organization",
+    "name": "France Nature Environnement (FNE)",
+    "short_name": "France Nature Environnement",
+    "description": "Selon La Lettre (25 septembre 2026), FNE coordonne au niveau national l’analyse de mouvements anti-data centers et envisage avec Les Amis de la Terre des recours contre le programme SoftBank à Dunkerque. Aucun recours formellement déposé à Loon-Plage n’est établi par cette ressource.",
+    "roles": [
+      {
+        "label": "Association environnementale ; recours envisagés selon La Lettre"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "actor_0068",
+    "type": "organization",
+    "name": "Les Amis de la Terre France",
+    "short_name": "Les Amis de la Terre",
+    "description": "Selon La Lettre (25 septembre 2026), cette association envisage avec FNE des recours contre le projet SoftBank à Dunkerque ; la ressource ne permet pas d’affirmer qu’un contentieux a été engagé ni qu’un groupe local se mobilise directement.",
+    "roles": [
+      {
+        "label": "Association environnementale ; recours envisagés selon La Lettre"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-04"
   }
 ]

@@ -21,12 +21,12 @@
       "text": "Critique générale sur le risque que l’énergie et les ressources soient accaparées par des infrastructures détenues par des capitaux étrangers."
     },
     {
-      "title": "👥 Pas d’opposition locale structurée",
-      "text": "Dans le corpus étudié, aucun collectif local d’opposition ou opposant local nommément cité n’apparaît clairement à ce stade pour Loon-Plage."
+      "title": "👥 Recours envisagés et mobilisation locale à documenter",
+      "text": "Selon La Lettre (25 septembre 2026), FNE et Les Amis de la Terre envisagent des recours contre le programme SoftBank à Dunkerque. Aucune preuve d’un recours déposé ni d’un collectif local autonome opposé au centre de calcul n’a été identifiée dans le corpus."
     },
     {
-      "title": "🏰 Redéfinition de la Souveraineté",
-      "text": "Les experts pointent que la localisation des données ne suffit plus à garantir la souveraineté. La dépendance aux capitaux (Brookfield, SoftBank) crée un nouveau rapport de vulnérabilité systémique."
+      "title": "🏰 Débat sur la souveraineté",
+      "text": "Les débats sur la souveraineté numérique interrogent le contrôle des infrastructures, les partenaires et les contrats ; il s'agit d'un angle critique général, non d'une conclusion juridique établie pour le site SoftBank."
     },
     {
       "title": "⏳ Pré-réservation temporaire et conditionnelle",
@@ -46,11 +46,11 @@
     }
   ],
   "vigilance": [
-    "<strong>Absence de contestation de terrain :</strong> Contrairement à d'autres projets comparables, aucune opposition citoyenne structurée n'est identifiée ou nommée explicitement dans le corpus pour Loon-Plage.",
-    "<strong>Mirage de l'emploi technologique :</strong> Les économistes et sociologues alertent sur un fort décalage entre l'emprise foncière, les montants investis (45 Md€) et la très faible proportion d'emplois directs créés post-construction.",
-    "<strong>Pression sur les réseaux :</strong> Une capacité de 1,3 GW capte une part substantielle de l'électricité décarbonée (EPR de Gravelines, éolien offshore), soulevant la question d'un conflit d'usage avec d'autres industries locales.",
-    "<strong>Souveraineté des capitaux :</strong> Bien qu'implantée en France pour profiter des tarifs énergétiques et du foncier portuaire, l'infrastructure est majoritairement maîtrisée par un fonds japonais (SoftBank).",
-    "<strong>Polarisation des implantations :</strong> La stratégie de SoftBank visant à concentrer 3,1 GW de capacité sur un axe très restreint (Dunkerque, Bosquel, Bouchain) risque d'engendrer une hyper-dépendance énergétique et foncière de la région Hauts-de-France.",
+    "<strong>Oppositions organisées :</strong> La Lettre (25 septembre 2026) rapporte que France Nature Environnement (FNE) et Les Amis de la Terre envisagent des recours contre le projet SoftBank à Dunkerque. Ce signal national ne prouve ni le dépôt d'un contentieux ni l'existence d'un collectif de riverains spécifiquement opposé au projet à Loon-Plage.",
+    "<strong>Emplois annoncés :</strong> Des analystes, dont Loup Cellard et Sylvain Bersinger, mettent en doute l'intensité en emplois directs de certains data centers après construction ; leurs appréciations nationales ne prouvent pas le bilan d'emplois du projet SoftBank à Loon-Plage.",
+    "<strong>Pression électrique potentielle :</strong> La montée vers environ 1,3 GW à Loon-Plage est rapportée comme objectif de SoftBank par la presse régionale. Le besoin final du projet et son arbitrage entre autres usages du réseau restent à distinguer des 1 300 MW temporairement pré-réservés par RTE sur la zone.",
+    "<strong>Souveraineté et gouvernance :</strong> L'implantation d'un projet porté par SoftBank soulève des questions de gouvernance et d'accès aux infrastructures ; il n'est pas possible de déduire, de la seule nationalité du groupe, la maîtrise juridique de chaque donnée, du foncier ou de l'exploitation future.",
+    "<strong>Concentration des projets :</strong> L'annonce de 3,1 GW sur trois sites des Hauts-de-France pourrait accentuer les arbitrages fonciers et électriques régionaux ; l'impact exact sur les autres industriels nécessite des données de charge et de capacité.",
     "<strong>Affectation des 1 300 MW :</strong> La capacité est pré-réservée à la Zone Industries Avenir pour des activités industrielles ou numériques de forte puissance ; elle n’est pas démontrée comme exclusivement attribuée à SoftBank.",
     "<strong>Durée Fast Track :</strong> La pré-réservation court pendant neuf mois à compter du 17 septembre 2026 et peut être prolongée de trois mois uniquement si le processus d’attribution du foncier est encore en cours.",
     "<strong>Raccordement non définitif :</strong> L’entrée en file d’attente et la prise en compte dans les études exploratoires ne signifient ni acceptation d’une proposition technique et financière ni mise à disposition immédiate de la puissance.",
@@ -59,8 +59,10 @@
     "<strong>Emplois Schneider :</strong> Les 150 emplois minimum annoncés par Olivier Blum concernent l’usine industrielle locale et ne permettent pas d’évaluer les emplois permanents du data center.",
     "<strong>Rôle d’EDF :</strong> La nouvelle ressource documente explicitement EDF à Bouchain, mais pas les conditions exactes de l’approvisionnement du site de Loon-Plage.",
     "<strong>Renforcement du réseau :</strong> Les besoins du bassin nécessitent des investissements à très haute tension, notamment le poste de Flandre maritime à Saint-Georges-sur-l’Aa, dont le calendrier et la capacité disponible doivent être suivis.",
-    "<strong>Acceptabilité sociale :</strong> L’absence actuelle d’opposition locale structurée ne garantit pas l’acceptation future du projet lorsque les chantiers, besoins en eau, lignes électriques et emprises foncières deviendront visibles.",
-    "<strong>Legrand :</strong> Le groupe est identifié comme acteur de la filière nationale, mais aucun contrat ou rôle opérationnel propre à Loon-Plage n’est démontré."
+    "<strong>Acceptabilité à documenter :</strong> Roland Lescure évoque le risque général d'une opposition citoyenne aux centres de données. À Loon-Plage, la désignation de garants CNDP ouvre une procédure de participation, mais ne constitue ni une opposition locale structurée ni un soutien public au projet.",
+    "<strong>Legrand :</strong> Le groupe est identifié comme acteur de la filière nationale, mais aucun contrat ou rôle opérationnel propre à Loon-Plage n’est démontré.",
+    "<strong>Concertation CNDP :</strong> Par décision du 7 octobre 2026 (JORF du 15 octobre), Paul Galli et Jean-Michel Stievenard sont nommés garants pour le centre de calcul, le raccordement THT et les aménagements hydrauliques et routiers ; aucune date de réunion locale n'est déduite de cette seule décision.",
+    "<strong>Deux périmètres distincts :</strong> Le site de la Zone Industries Avenir à Loon-Plage (1 300 MW pré-réservés) ne doit pas être fusionné avec la zone Grande Industrie à Bourbourg (700 MW prolongés)."
   ],
   "sources": [
     "<strong>La Tribune :</strong> Relaye les annonces de Choose France et détaille les investissements dans les infrastructures IA.",

@@ -39,6 +39,10 @@
     "medias": {
       "label": "Médias et sources cités",
       "color": "#64748b"
+    },
+    "concertation": {
+      "label": "Concertation publique et garants",
+      "color": "#0e7490"
     }
   },
   "stances": {

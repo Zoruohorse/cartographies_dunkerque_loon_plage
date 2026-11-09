@@ -139,5 +139,40 @@
       "label": "Cible stratégique identifiée",
       "directed": true
     }
+  },
+  "timeline": {
+    "grouping": "month",
+    "event_type": "first_documented_appearance",
+    "default_mode": "cumulative",
+    "default_scope": "direct",
+    "categories": [
+      {
+        "id": "elus",
+        "label": "Élus et autorités territoriales",
+        "color": "#607cda"
+      },
+      {
+        "id": "entreprises",
+        "label": "Entreprises et filière industrielle",
+        "color": "#10a38e"
+      },
+      {
+        "id": "infrastructures",
+        "label": "Réseau, port et concertation",
+        "color": "#9878c7"
+      },
+      {
+        "id": "experts",
+        "label": "Experts et associations",
+        "color": "#d9765f"
+      }
+    ],
+    "fallback_category": "entreprises",
+    "excluded_actor_categories": [
+      "project",
+      "medias",
+      "vigilance"
+    ],
+    "methodology": "Une seule apparition par personne/organisation documentée, au mois de sa première mention datée dans le corpus. Dates institutionnelles parfois antérieures à la publication. Le périmètre direct exclut les industriels cités à titre de contexte. Les catégories représentent des rôles, pas un degré de soutien."
   }
 }

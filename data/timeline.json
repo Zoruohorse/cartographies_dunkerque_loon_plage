@@ -1,0 +1,945 @@
+[
+  {
+    "id": "timeline_dunkerque_0019",
+    "actor_id": "actor_0019",
+    "event_type": "first_documented_appearance",
+    "date": "2025-03-31",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0028"
+    ],
+    "evidence_ids": [
+      "evidence_0016"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "La communication d'ArcelorMittal de mars 2025 porte sur les usages de l'eau, sans prise de position sur SoftBank.",
+    "summary": "Cité dans le cadre des travaux menés sur la réduction de la consommation d’eau industrielle sur le territoire.",
+    "stance_recorded": "neutral",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2025-03-31"
+  },
+  {
+    "id": "timeline_dunkerque_0004",
+    "actor_id": "actor_0004",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-30",
+    "date_precision": "day",
+    "category": "elus",
+    "scope": "direct",
+    "source_ids": [
+      "source_0015"
+    ],
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Première pièce datée du corpus reliant Patrice Vergriete à ce dossier, article ou communiqué du 2026-05-30.",
+    "summary": "Défend le projet comme un investissement historique pour le territoire, met en avant les retombées économiques, l’emploi, la fiscalité et la stratégie d’industries décarbonées.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-05-30"
+  },
+  {
+    "id": "timeline_dunkerque_0006",
+    "actor_id": "actor_0006",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-30",
+    "date_precision": "day",
+    "category": "elus",
+    "scope": "direct",
+    "source_ids": [
+      "source_0015"
+    ],
+    "evidence_ids": [
+      "evidence_0003"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Première pièce datée du corpus reliant Emmanuel Macron à ce dossier, article ou communiqué du 2026-05-30.",
+    "summary": "Figure politique de cadrage national via Choose France et la stratégie d’attractivité des investissements IA.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-05-30"
+  },
+  {
+    "id": "timeline_dunkerque_0007",
+    "actor_id": "actor_0007",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-30",
+    "date_precision": "day",
+    "category": "elus",
+    "scope": "direct",
+    "source_ids": [
+      "source_0015"
+    ],
+    "evidence_ids": [
+      "evidence_0004"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Première pièce datée du corpus reliant Communauté urbaine de Dunkerque à ce dossier, article ou communiqué du 2026-05-30.",
+    "summary": "Au cœur de la stratégie locale de développement industriel et de réindustrialisation.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-05-30"
+  },
+  {
+    "id": "timeline_dunkerque_0009",
+    "actor_id": "actor_0009",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-30",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "direct",
+    "source_ids": [
+      "source_0015"
+    ],
+    "evidence_ids": [
+      "evidence_0006"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Première pièce datée du corpus reliant SoftBank Group à ce dossier, article ou communiqué du 2026-05-30.",
+    "summary": "Prévoit une première phase de 45 milliards d’euros et 3,1 GW dans les Hauts-de-France à l’horizon 2031, dont Loon-Plage.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-05-30"
+  },
+  {
+    "id": "timeline_dunkerque_0010",
+    "actor_id": "actor_0010",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-30",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "direct",
+    "source_ids": [
+      "source_0015"
+    ],
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Première pièce datée du corpus reliant Masayoshi Son à ce dossier, article ou communiqué du 2026-05-30.",
+    "summary": "Incarne l’annonce d’investissement massif en France.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-05-30"
+  },
+  {
+    "id": "timeline_dunkerque_0012",
+    "actor_id": "actor_0012",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-30",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "direct",
+    "source_ids": [
+      "source_0016"
+    ],
+    "evidence_ids": [
+      "evidence_0009"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Première pièce datée du corpus reliant Schneider Electric à ce dossier, article ou communiqué du 2026-05-30.",
+    "summary": "Doit participer à un pôle manufacturier sur le port de Dunkerque comprenant une unité d’intégration de modules de puissance.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-05-30"
+  },
+  {
+    "id": "timeline_dunkerque_0014",
+    "actor_id": "actor_0014",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-30",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "direct",
+    "source_ids": [
+      "source_0016"
+    ],
+    "evidence_ids": [
+      "evidence_dunkerque_evolution_20261109_0014"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Citation directe d'Olivier Blum dans le communiqué Schneider Electric du 30 mai, antérieur à la source de septembre de sa fiche.",
+    "summary": "Olivier Blum accompagne l’implantation industrielle de Schneider Electric à Dunkerque ; l’estimation minimale de 150 emplois est rapportée par la presse, non garantie.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-05-30"
+  },
+  {
+    "id": "timeline_dunkerque_0016",
+    "actor_id": "actor_0016",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-30",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0015"
+    ],
+    "evidence_ids": [
+      "evidence_0013"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "EDF intervient à Bouchain dans le communiqué SoftBank, pas comme fournisseur contractuel démontré de Loon-Plage.",
+    "summary": "Est explicitement associé dans la nouvelle ressource à l’approvisionnement électrique du site de Bouchain.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-05-30"
+  },
+  {
+    "id": "timeline_dunkerque_0018",
+    "actor_id": "actor_0018",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-30",
+    "date_precision": "day",
+    "category": "infrastructures",
+    "scope": "direct",
+    "source_ids": [
+      "source_0015"
+    ],
+    "evidence_ids": [
+      "evidence_dunkerque_evolution_20261109_0018"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Déclaration du directeur du Grand Port dans le communiqué du groupe SoftBank daté du 30 mai.",
+    "summary": "Accueille deux réservations capacitaires distinctes : 1 300 MW sur la Zone Industries Avenir à Loon-Plage et 700 MW prolongés à Bourbourg.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-05-30"
+  },
+  {
+    "id": "timeline_dunkerque_0055",
+    "actor_id": "actor_0055",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-30",
+    "date_precision": "day",
+    "category": "elus",
+    "scope": "direct",
+    "source_ids": [
+      "source_0015"
+    ],
+    "evidence_ids": [
+      "evidence_dunkerque_evolution_20261109_0055"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Le communiqué SoftBank reconnaît le rôle de l'État dans la préparation de l'investissement, sans position individuelle supposée.",
+    "summary": "Demande à RTE de pré-réserver 1 300 MW sur la Zone Industries Avenir à Loon-Plage afin de soutenir la réindustrialisation.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-05-30"
+  },
+  {
+    "id": "timeline_dunkerque_0057",
+    "actor_id": "actor_0057",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-30",
+    "date_precision": "day",
+    "category": "elus",
+    "scope": "direct",
+    "source_ids": [
+      "source_0015"
+    ],
+    "evidence_ids": [
+      "evidence_0050"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Première pièce datée du corpus reliant Roland Lescure à ce dossier, article ou communiqué du 2026-05-30.",
+    "summary": "Dans le communiqué officiel de SoftBank, Roland Lescure apporte un soutien public à l’investissement IA porté par le groupe, y compris la phase régionale contenant Loon-Plage ; il souligne par ailleurs, dans la presse, l’importance de convaincre les riverains.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-05-30"
+  },
+  {
+    "id": "timeline_dunkerque_0063",
+    "actor_id": "actor_0063",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-30",
+    "date_precision": "day",
+    "category": "infrastructures",
+    "scope": "direct",
+    "source_ids": [
+      "source_0015"
+    ],
+    "evidence_ids": [
+      "evidence_0037"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Première pièce datée du corpus reliant Maurice Georges à ce dossier, article ou communiqué du 2026-05-30.",
+    "summary": "Maurice Georges se félicite conjointement avec Patrice Vergriete du programme industriel SoftBank et de ses perspectives pour Dunkerque.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-05-30"
+  },
+  {
+    "id": "timeline_dunkerque_0064",
+    "actor_id": "actor_0064",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-30",
+    "date_precision": "day",
+    "category": "infrastructures",
+    "scope": "direct",
+    "source_ids": [
+      "source_0015"
+    ],
+    "evidence_ids": [
+      "evidence_dunkerque_evolution_20261109_0064"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Business France est nommé dans le communiqué SoftBank parmi les contributeurs à la préparation du projet.",
+    "summary": "Organisation citée dans le communiqué SoftBank parmi les acteurs ayant collaboré à la préparation du projet avec l’autorité portuaire.",
+    "stance_recorded": "unknown",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-05-30"
+  },
+  {
+    "id": "timeline_dunkerque_0005",
+    "actor_id": "actor_0005",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-01",
+    "date_precision": "day",
+    "category": "elus",
+    "scope": "direct",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_dunkerque_evolution_20261109_0005"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Article La Voix du Nord du 1er juin. La publication LinkedIn de Xavier Bertrand n'est pas datée dans la base.",
+    "summary": "Porte un discours très favorable aux investissements IA et data centers, insiste sur la souveraineté, la formation, l’emploi et les usages de l’intelligence artificielle.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-06-01"
+  },
+  {
+    "id": "timeline_dunkerque_0008",
+    "actor_id": "actor_0008",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-01",
+    "date_precision": "day",
+    "category": "elus",
+    "scope": "direct",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0005"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Première pièce datée du corpus reliant Région Hauts-de-France à ce dossier, article ou communiqué du 2026-06-01.",
+    "summary": "Impliquée dans les discussions avec SoftBank et dans la mise en valeur des atouts régionaux.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-06-01"
+  },
+  {
+    "id": "timeline_dunkerque_0011",
+    "actor_id": "actor_0011",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-01",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "direct",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0008"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Première pièce datée du corpus reliant Sumer Juneja à ce dossier, article ou communiqué du 2026-06-01.",
+    "summary": "Détaille la logique de sélection des sites et précise la montée en capacité des projets des Hauts-de-France.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-06-01"
+  },
+  {
+    "id": "timeline_dunkerque_0013",
+    "actor_id": "actor_0013",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-01",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "direct",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0010"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Première pièce datée du corpus reliant Aymeric Renaud à ce dossier, article ou communiqué du 2026-06-01.",
+    "summary": "Explique le rôle de Schneider et confirme l’installation d’une préfab factory à Dunkerque.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-06-01"
+  },
+  {
+    "id": "timeline_dunkerque_0015",
+    "actor_id": "actor_0015",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-01",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0002"
+    ],
+    "evidence_ids": [
+      "evidence_0012"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Sesterce est mentionné au sujet du Bosquel : aucun partenariat spécifique Loon-Plage ne ressort du dossier.",
+    "summary": "Sesterce est présenté comme partenaire de SoftBank au Bosquel. Aucune implication spécifique au centre de calcul de Loon-Plage n’est démontrée.",
+    "stance_recorded": "neutral",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-06-01"
+  },
+  {
+    "id": "timeline_dunkerque_0022",
+    "actor_id": "actor_0022",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-01",
+    "date_precision": "day",
+    "category": "experts",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0021"
+    ],
+    "evidence_ids": [
+      "evidence_0017"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Analyse sectorielle de Loup Cellard, pas opposition formelle au centre SoftBank.",
+    "summary": "Souligne le faible nombre d’emplois créés au regard de l’emprise au sol et des montants investis, et rappelle les enjeux d’eau et d’électricité.",
+    "stance_recorded": "opposed",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-06-01"
+  },
+  {
+    "id": "timeline_dunkerque_0023",
+    "actor_id": "actor_0023",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-01",
+    "date_precision": "day",
+    "category": "experts",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0021"
+    ],
+    "evidence_ids": [
+      "evidence_0018"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Analyse économique sectorielle de Sylvain Bersinger, sans opposition formelle spécifique à Loon-Plage.",
+    "summary": "Estime que les data centers génèrent peu d’emplois directs une fois construits et interroge leurs bénéfices économiques réels.",
+    "stance_recorded": "opposed",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-06-01"
+  },
+  {
+    "id": "timeline_dunkerque_0038",
+    "actor_id": "actor_0038",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-17",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0018"
+    ],
+    "evidence_ids": [
+      "evidence_0019"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Article daté de l'écosystème industriel régional. Aucune participation contractuelle au data center SoftBank n'est démontrée.",
+    "summary": "Foselev développe un pôle industriel à Petite-Synthe afin de répondre à plusieurs marchés régionaux, dont les futurs data centers ; aucun contrat identifié avec SoftBank Loon-Plage.",
+    "stance_recorded": "neutral",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-06-17"
+  },
+  {
+    "id": "timeline_dunkerque_0039",
+    "actor_id": "actor_0039",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-17",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0018"
+    ],
+    "evidence_ids": [
+      "evidence_0020"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Article daté de l'écosystème industriel régional. Aucune participation contractuelle au data center SoftBank n'est démontrée.",
+    "summary": "Henri Brière porte la stratégie de développement de Foselev dans le Dunkerquois ; aucune position spécifique sur l’implantation SoftBank à Loon-Plage n’a été identifiée.",
+    "stance_recorded": "neutral",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-06-17"
+  },
+  {
+    "id": "timeline_dunkerque_0040",
+    "actor_id": "actor_0040",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-17",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0018"
+    ],
+    "evidence_ids": [
+      "evidence_0021"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Article daté de l'écosystème industriel régional. Aucune participation contractuelle au data center SoftBank n'est démontrée.",
+    "summary": "Intégrée au nouveau pôle de Petite-Synthe.",
+    "stance_recorded": "neutral",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-06-17"
+  },
+  {
+    "id": "timeline_dunkerque_0041",
+    "actor_id": "actor_0041",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-17",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0018"
+    ],
+    "evidence_ids": [
+      "evidence_0022"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Article daté de l'écosystème industriel régional. Aucune participation contractuelle au data center SoftBank n'est démontrée.",
+    "summary": "Intégrée au nouveau pôle de Petite-Synthe.",
+    "stance_recorded": "neutral",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-06-17"
+  },
+  {
+    "id": "timeline_dunkerque_0042",
+    "actor_id": "actor_0042",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-17",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0018"
+    ],
+    "evidence_ids": [
+      "evidence_0023"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Article daté de l'écosystème industriel régional. Aucune participation contractuelle au data center SoftBank n'est démontrée.",
+    "summary": "Intégrée au nouveau pôle de Petite-Synthe.",
+    "stance_recorded": "neutral",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-06-17"
+  },
+  {
+    "id": "timeline_dunkerque_0043",
+    "actor_id": "actor_0043",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-17",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0018"
+    ],
+    "evidence_ids": [
+      "evidence_0024"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Article daté de l'écosystème industriel régional. Aucune participation contractuelle au data center SoftBank n'est démontrée.",
+    "summary": "Intégrée au nouveau pôle de Petite-Synthe.",
+    "stance_recorded": "neutral",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-06-17"
+  },
+  {
+    "id": "timeline_dunkerque_0044",
+    "actor_id": "actor_0044",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-17",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0018"
+    ],
+    "evidence_ids": [
+      "evidence_0025"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Article daté de l'écosystème industriel régional. Aucune participation contractuelle au data center SoftBank n'est démontrée.",
+    "summary": "Conserve son implantation originelle.",
+    "stance_recorded": "neutral",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-06-17"
+  },
+  {
+    "id": "timeline_dunkerque_0045",
+    "actor_id": "actor_0045",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-17",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0018"
+    ],
+    "evidence_ids": [
+      "evidence_0026"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Article daté de l'écosystème industriel régional. Aucune participation contractuelle au data center SoftBank n'est démontrée.",
+    "summary": "Conserve son implantation originelle.",
+    "stance_recorded": "neutral",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-06-17"
+  },
+  {
+    "id": "timeline_dunkerque_0049",
+    "actor_id": "actor_0049",
+    "event_type": "first_documented_appearance",
+    "date": "2026-08-07",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_0027"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Article daté de l'écosystème industriel régional. Aucune participation contractuelle au data center SoftBank n'est démontrée.",
+    "summary": "Sikander Rashid commente l’attractivité énergétique de la France pour Brookfield, sans prise de position identifiée sur le site SoftBank de Loon-Plage.",
+    "stance_recorded": "neutral",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-08-07"
+  },
+  {
+    "id": "timeline_dunkerque_0050",
+    "actor_id": "actor_0050",
+    "event_type": "first_documented_appearance",
+    "date": "2026-08-07",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_0028"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Article daté de l'écosystème industriel régional. Aucune participation contractuelle au data center SoftBank n'est démontrée.",
+    "summary": "Brookfield renforce séparément ses investissements français en infrastructures IA ; aucune co-participation au projet SoftBank Loon-Plage n’est prouvée.",
+    "stance_recorded": "neutral",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-08-07"
+  },
+  {
+    "id": "timeline_dunkerque_0058",
+    "actor_id": "actor_0058",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-06",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0013"
+    ],
+    "evidence_ids": [
+      "evidence_0034"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Legrand cité comme industriel de la filière sans contrat local documenté.",
+    "summary": "Est cité comme l’un des industriels français capables de contribuer à la construction physique des infrastructures.",
+    "stance_recorded": "favorable",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-09-06"
+  },
+  {
+    "id": "timeline_dunkerque_0017",
+    "actor_id": "actor_0017",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-17",
+    "date_precision": "day",
+    "category": "infrastructures",
+    "scope": "direct",
+    "source_ids": [
+      "source_0010"
+    ],
+    "evidence_ids": [
+      "evidence_0014"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Première pièce datée du corpus reliant RTE à ce dossier, article ou communiqué du 2026-09-17.",
+    "summary": "À la demande de l’État, pré-réserve 1 300 MW sur la Zone Industries Avenir du Grand Port Maritime de Dunkerque à Loon-Plage à compter du 17 septembre 2026.",
+    "stance_recorded": "neutral",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-09-17"
+  },
+  {
+    "id": "timeline_dunkerque_0056",
+    "actor_id": "actor_0056",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-17",
+    "date_precision": "day",
+    "category": "infrastructures",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0010"
+    ],
+    "evidence_ids": [
+      "evidence_0032"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "L'article RTE évoque un mécanisme CRE approuvé en mai 2025 ; cette date ne caractérise pas une intervention sur SoftBank.",
+    "summary": "La CRE a approuvé un dispositif national de raccordement accéléré le 7 mai 2025 ; aucune prise de position en faveur du projet SoftBank n’est démontrée.",
+    "stance_recorded": "neutral",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-09-17"
+  },
+  {
+    "id": "timeline_dunkerque_0062",
+    "actor_id": "actor_0062",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-23",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "direct",
+    "source_ids": [
+      "source_0017"
+    ],
+    "evidence_ids": [
+      "evidence_dunkerque_evolution_20261109_0062"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "official_act_date",
+    "date_basis": "Saisine des garants du 23 septembre cosignée par le directeur de Silver Bands 4, citée dans la décision CNDP publiée le 15 octobre. Ne prouve pas la structure capitalistique.",
+    "summary": "Société dont le directeur cosigne la saisine CNDP du 23 septembre 2026. Son statut de filiale et sa responsabilité contractuelle ne sont pas établis par cette seule décision.",
+    "stance_recorded": "unknown",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-10-15"
+  },
+  {
+    "id": "timeline_dunkerque_0067",
+    "actor_id": "actor_0067",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-25",
+    "date_precision": "day",
+    "category": "experts",
+    "scope": "direct",
+    "source_ids": [
+      "source_0026"
+    ],
+    "evidence_ids": [
+      "evidence_0041"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Recours envisagés selon La Lettre au 25 septembre ; dépôt effectif non établi.",
+    "summary": "Selon La Lettre (25/09/2026), l’association envisage des recours contre le projet SoftBank à Dunkerque avec une autre ONG. Aucune procédure engagée ni position propre au niveau local n’est confirmée.",
+    "stance_recorded": "opposed",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-09-25"
+  },
+  {
+    "id": "timeline_dunkerque_0068",
+    "actor_id": "actor_0068",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-25",
+    "date_precision": "day",
+    "category": "experts",
+    "scope": "direct",
+    "source_ids": [
+      "source_0026"
+    ],
+    "evidence_ids": [
+      "evidence_0042"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "Recours envisagés selon La Lettre au 25 septembre ; dépôt effectif non établi.",
+    "summary": "Selon La Lettre (25/09/2026), l’association envisage des recours contre le projet SoftBank à Dunkerque avec une autre ONG. Aucune procédure engagée ni position propre au niveau local n’est confirmée.",
+    "stance_recorded": "opposed",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-09-25"
+  },
+  {
+    "id": "timeline_dunkerque_0051",
+    "actor_id": "actor_0051",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-02",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "indirect",
+    "source_ids": [
+      "source_0027"
+    ],
+    "evidence_ids": [
+      "evidence_0029"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication_or_press_release_date",
+    "date_basis": "L'usine Bull à Angers est distincte du projet de Loon-Plage.",
+    "summary": "Bull assemble des supercalculateurs à Angers et annonce un partenariat avec Foxconn ; la fourniture de supercalculateurs par cette usine aux data centers SoftBank de Loon-Plage n’est pas démontrée.",
+    "stance_recorded": "neutral",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-10-02"
+  },
+  {
+    "id": "timeline_dunkerque_0059",
+    "actor_id": "actor_0059",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-07",
+    "date_precision": "day",
+    "category": "infrastructures",
+    "scope": "direct",
+    "source_ids": [
+      "source_0017"
+    ],
+    "evidence_ids": [
+      "evidence_dunkerque_evolution_20261109_0059"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "official_act_date",
+    "date_basis": "Décision CNDP du 7 octobre 2026, publiée au JO du 15 octobre ; ne pas confondre date de l'acte et publication.",
+    "summary": "Autorité ayant désigné le 7 octobre 2026 les garants de la concertation préalable du projet Loon-Plage.",
+    "stance_recorded": "unknown",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-10-15"
+  },
+  {
+    "id": "timeline_dunkerque_0060",
+    "actor_id": "actor_0060",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-07",
+    "date_precision": "day",
+    "category": "infrastructures",
+    "scope": "direct",
+    "source_ids": [
+      "source_0017"
+    ],
+    "evidence_ids": [
+      "evidence_dunkerque_evolution_20261109_0060"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "official_act_date",
+    "date_basis": "Paul Galli est nommé garant dans la décision CNDP du 7 octobre, publiée le 15 octobre.",
+    "summary": "Garant de la concertation préalable du centre de calcul et des aménagements associés à Loon-Plage, désigné par la CNDP le 7 octobre 2026.",
+    "stance_recorded": "unknown",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-10-15"
+  },
+  {
+    "id": "timeline_dunkerque_0061",
+    "actor_id": "actor_0061",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-07",
+    "date_precision": "day",
+    "category": "infrastructures",
+    "scope": "direct",
+    "source_ids": [
+      "source_0017"
+    ],
+    "evidence_ids": [
+      "evidence_dunkerque_evolution_20261109_0061"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "official_act_date",
+    "date_basis": "Jean-Michel Stievenard est nommé garant dans la décision CNDP du 7 octobre, publiée le 15 octobre.",
+    "summary": "Garant de la concertation préalable du centre de calcul et des aménagements associés à Loon-Plage, désigné par la CNDP le 7 octobre 2026.",
+    "stance_recorded": "unknown",
+    "statement_kind": "premiere_apparition_documentaire_non_premiere_prise_de_position",
+    "source_published_at": "2026-10-15"
+  }
+]

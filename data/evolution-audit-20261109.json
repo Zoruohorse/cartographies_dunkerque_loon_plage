@@ -1,0 +1,278 @@
+{
+  "created_at": "2026-11-09",
+  "baseline": {
+    "entities": 68,
+    "positions": 37,
+    "evidence": 50,
+    "sources": 28
+  },
+  "result": {
+    "actors_dated": 41,
+    "direct": 23,
+    "ecosystem": 18,
+    "excluded": 27,
+    "new_date_evidence": 9,
+    "monthly_direct": {
+      "2026-05": 12,
+      "2026-06": 4,
+      "2026-09": 4,
+      "2026-10": 3
+    },
+    "monthly_all": {
+      "2025-03": 1,
+      "2026-05": 13,
+      "2026-06": 15,
+      "2026-08": 2,
+      "2026-09": 6,
+      "2026-10": 4
+    },
+    "categories": {
+      "elus": 7,
+      "entreprises": 22,
+      "infrastructures": 8,
+      "experts": 4
+    }
+  },
+  "exclusions": [
+    {
+      "id": "project_dunkerque",
+      "name": "Data center SoftBank — Loon-Plage / Dunkerque",
+      "category": [
+        "project"
+      ]
+    },
+    {
+      "id": "actor_0002",
+      "name": "Usine de modules Schneider — port de Dunkerque",
+      "category": [
+        "project"
+      ]
+    },
+    {
+      "id": "actor_0003",
+      "name": "Loon-Plage",
+      "category": [
+        "project"
+      ]
+    },
+    {
+      "id": "actor_0020",
+      "name": "Projet EPR de Gravelines",
+      "category": [
+        "energie"
+      ]
+    },
+    {
+      "id": "actor_0021",
+      "name": "Éolien offshore",
+      "category": [
+        "energie"
+      ]
+    },
+    {
+      "id": "actor_0024",
+      "name": "Consommation électrique",
+      "category": [
+        "vigilance"
+      ]
+    },
+    {
+      "id": "actor_0025",
+      "name": "Consommation d’eau",
+      "category": [
+        "vigilance"
+      ]
+    },
+    {
+      "id": "actor_0026",
+      "name": "Faible intensité en emplois",
+      "category": [
+        "vigilance"
+      ]
+    },
+    {
+      "id": "actor_0027",
+      "name": "Artificialisation / foncier",
+      "category": [
+        "vigilance"
+      ]
+    },
+    {
+      "id": "actor_0028",
+      "name": "Captation de ressources stratégiques",
+      "category": [
+        "vigilance"
+      ]
+    },
+    {
+      "id": "actor_0029",
+      "name": "Mobilisations nationales — opposition locale à suivre",
+      "category": [
+        "vigilance"
+      ]
+    },
+    {
+      "id": "actor_0030",
+      "name": "La Tribune",
+      "category": [
+        "medias"
+      ]
+    },
+    {
+      "id": "actor_0031",
+      "name": "Le Monde",
+      "category": [
+        "medias"
+      ]
+    },
+    {
+      "id": "actor_0032",
+      "name": "La Voix du Nord",
+      "category": [
+        "medias"
+      ]
+    },
+    {
+      "id": "actor_0033",
+      "name": "Ici",
+      "category": [
+        "medias"
+      ]
+    },
+    {
+      "id": "actor_0034",
+      "name": "Les Echos",
+      "category": [
+        "medias"
+      ]
+    },
+    {
+      "id": "actor_0035",
+      "name": "Le Républicain Lorrain",
+      "category": [
+        "medias"
+      ]
+    },
+    {
+      "id": "actor_0036",
+      "name": "Zonebourse",
+      "category": [
+        "medias"
+      ]
+    },
+    {
+      "id": "actor_0037",
+      "name": "Pôle industriel Foselev — Petite-Synthe",
+      "category": [
+        "project"
+      ]
+    },
+    {
+      "id": "actor_0046",
+      "name": "Canal Seine-Nord Europe",
+      "category": [
+        "energie"
+      ]
+    },
+    {
+      "id": "actor_0047",
+      "name": "Projets Datacenters",
+      "category": [
+        "energie"
+      ]
+    },
+    {
+      "id": "actor_0048",
+      "name": "Gigafactories",
+      "category": [
+        "energie"
+      ]
+    },
+    {
+      "id": "actor_0052",
+      "name": "Bouchain",
+      "category": [
+        "project",
+        "porteurs"
+      ]
+    },
+    {
+      "id": "actor_0053",
+      "name": "La Voix de France",
+      "category": [
+        "medias"
+      ]
+    },
+    {
+      "id": "actor_0054",
+      "name": "Journal du Net",
+      "category": [
+        "medias"
+      ]
+    },
+    {
+      "id": "actor_0065",
+      "name": "Unité de fabrication de boîtiers SoftBank — port de Dunkerque",
+      "category": [
+        "project"
+      ]
+    },
+    {
+      "id": "actor_0066",
+      "name": "AMI datacenter / supercalculateur — Bourbourg, Zone Grande Industrie",
+      "category": [
+        "project"
+      ]
+    }
+  ],
+  "method": "Date de première apparition datable par source ou acte dans le corpus, une seule entrée par acteur, division stricte projet direct / écosystème non contractuel. Ne mesure ni prise de position initiale ni évolution de soutien.",
+  "exceptions": [
+    {
+      "actor_id": "actor_0015",
+      "reason": "Sesterce est mentionné au sujet du Bosquel : aucun partenariat spécifique Loon-Plage ne ressort du dossier."
+    },
+    {
+      "actor_id": "actor_0016",
+      "reason": "EDF intervient à Bouchain dans le communiqué SoftBank, pas comme fournisseur contractuel démontré de Loon-Plage."
+    },
+    {
+      "actor_id": "actor_0019",
+      "reason": "La communication d'ArcelorMittal de mars 2025 porte sur les usages de l'eau, sans prise de position sur SoftBank."
+    },
+    {
+      "actor_id": "actor_0022",
+      "reason": "Analyse sectorielle de Loup Cellard, pas opposition formelle au centre SoftBank."
+    },
+    {
+      "actor_id": "actor_0023",
+      "reason": "Analyse économique sectorielle de Sylvain Bersinger, sans opposition formelle spécifique à Loon-Plage."
+    },
+    {
+      "actor_id": "actor_0051",
+      "reason": "L'usine Bull à Angers est distincte du projet de Loon-Plage."
+    },
+    {
+      "actor_id": "actor_0056",
+      "reason": "L'article RTE évoque un mécanisme CRE approuvé en mai 2025 ; cette date ne caractérise pas une intervention sur SoftBank."
+    },
+    {
+      "actor_id": "actor_0058",
+      "reason": "Legrand cité comme industriel de la filière sans contrat local documenté."
+    },
+    {
+      "actor_id": "actor_0067",
+      "reason": "Recours envisagés selon La Lettre au 25 septembre ; dépôt effectif non établi."
+    },
+    {
+      "actor_id": "actor_0068",
+      "reason": "Recours envisagés selon La Lettre au 25 septembre ; dépôt effectif non établi."
+    }
+  ],
+  "unmodified": [
+    "data/actors.json",
+    "data/claims.json",
+    "data/relations.json",
+    "data/sources.json",
+    "data/synthesis.json"
+  ]
+}

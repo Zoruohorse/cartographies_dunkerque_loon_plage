@@ -538,5 +538,104 @@
     "published_at": "2026-05-31",
     "accessed_at": "2026-11-04",
     "location": "SoftBank Group press release, May 31, 2026, quote attributed to Roland Lescure"
+  },
+  {
+    "id": "evidence_dunkerque_evolution_20261109_0005",
+    "type": "documentary_context",
+    "text": "Xavier Bertrand : Article La Voix du Nord du 1er juin. La publication LinkedIn de Xavier Bertrand n'est pas datée dans la base.",
+    "source_id": "source_0003",
+    "source_status": "qualified",
+    "published_at": "2026-06-01",
+    "accessed_at": "2026-11-09",
+    "verification_mode": "source_date_and_scope_qualified",
+    "location": "Premier repère documentaire du corpus"
+  },
+  {
+    "id": "evidence_dunkerque_evolution_20261109_0014",
+    "type": "documentary_context",
+    "text": "Olivier Blum : Citation directe d'Olivier Blum dans le communiqué Schneider Electric du 30 mai, antérieur à la source de septembre de sa fiche.",
+    "source_id": "source_0016",
+    "source_status": "qualified",
+    "published_at": "2026-05-30",
+    "accessed_at": "2026-11-09",
+    "verification_mode": "source_date_and_scope_qualified",
+    "location": "Premier repère documentaire du corpus"
+  },
+  {
+    "id": "evidence_dunkerque_evolution_20261109_0018",
+    "type": "documentary_context",
+    "text": "Grand Port Maritime de Dunkerque : Déclaration du directeur du Grand Port dans le communiqué du groupe SoftBank daté du 30 mai.",
+    "source_id": "source_0015",
+    "source_status": "qualified",
+    "published_at": "2026-05-30",
+    "accessed_at": "2026-11-09",
+    "verification_mode": "source_date_and_scope_qualified",
+    "location": "Premier repère documentaire du corpus"
+  },
+  {
+    "id": "evidence_dunkerque_evolution_20261109_0055",
+    "type": "documentary_context",
+    "text": "État : Le communiqué SoftBank reconnaît le rôle de l'État dans la préparation de l'investissement, sans position individuelle supposée.",
+    "source_id": "source_0015",
+    "source_status": "qualified",
+    "published_at": "2026-05-30",
+    "accessed_at": "2026-11-09",
+    "verification_mode": "source_date_and_scope_qualified",
+    "location": "Premier repère documentaire du corpus"
+  },
+  {
+    "id": "evidence_dunkerque_evolution_20261109_0059",
+    "type": "documentary_context",
+    "text": "Commission nationale du débat public (CNDP) : Décision CNDP du 7 octobre 2026, publiée au JO du 15 octobre ; ne pas confondre date de l'acte et publication.",
+    "source_id": "source_0017",
+    "source_status": "qualified",
+    "published_at": "2026-10-15",
+    "accessed_at": "2026-11-09",
+    "verification_mode": "source_date_and_scope_qualified",
+    "location": "Premier repère documentaire du corpus"
+  },
+  {
+    "id": "evidence_dunkerque_evolution_20261109_0060",
+    "type": "documentary_context",
+    "text": "Paul Galli : Paul Galli est nommé garant dans la décision CNDP du 7 octobre, publiée le 15 octobre.",
+    "source_id": "source_0017",
+    "source_status": "qualified",
+    "published_at": "2026-10-15",
+    "accessed_at": "2026-11-09",
+    "verification_mode": "source_date_and_scope_qualified",
+    "location": "Premier repère documentaire du corpus"
+  },
+  {
+    "id": "evidence_dunkerque_evolution_20261109_0061",
+    "type": "documentary_context",
+    "text": "Jean-Michel Stievenard : Jean-Michel Stievenard est nommé garant dans la décision CNDP du 7 octobre, publiée le 15 octobre.",
+    "source_id": "source_0017",
+    "source_status": "qualified",
+    "published_at": "2026-10-15",
+    "accessed_at": "2026-11-09",
+    "verification_mode": "source_date_and_scope_qualified",
+    "location": "Premier repère documentaire du corpus"
+  },
+  {
+    "id": "evidence_dunkerque_evolution_20261109_0062",
+    "type": "documentary_context",
+    "text": "Silver Bands 4 (US) Corp. : Saisine des garants du 23 septembre cosignée par le directeur de Silver Bands 4, citée dans la décision CNDP publiée le 15 octobre. Ne prouve pas la structure capitalistique.",
+    "source_id": "source_0017",
+    "source_status": "qualified",
+    "published_at": "2026-10-15",
+    "accessed_at": "2026-11-09",
+    "verification_mode": "source_date_and_scope_qualified",
+    "location": "Premier repère documentaire du corpus"
+  },
+  {
+    "id": "evidence_dunkerque_evolution_20261109_0064",
+    "type": "documentary_context",
+    "text": "Business France : Business France est nommé dans le communiqué SoftBank parmi les contributeurs à la préparation du projet.",
+    "source_id": "source_0015",
+    "source_status": "qualified",
+    "published_at": "2026-05-30",
+    "accessed_at": "2026-11-09",
+    "verification_mode": "source_date_and_scope_qualified",
+    "location": "Premier repère documentaire du corpus"
   }
 ]
